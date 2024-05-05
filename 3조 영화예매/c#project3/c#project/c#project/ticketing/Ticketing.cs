@@ -33,35 +33,35 @@ namespace c_project
             switch (randomNumber)
             {
                 case 1:
-                    videoFilePath = "\\\\192.168.0.49\\공유\\미니프로젝트\\C#\\3조\\c#project 3조 최종\\c#project3\\movie\\새벽의 저주.mp4";
+                    videoFilePath = "C:\\Users\\k9315\\Documents\\project\\3조 영화예매\\c#project3\\c#project\\c#project\\movieFiles\\새벽의 저주.mp4";
                     pictureBox1.Image = Resources.새벽의_저주1;
                     break;
                 case 2:
-                    videoFilePath = "\\\\192.168.0.49\\공유\\미니프로젝트\\C#\\3조\\c#project 3조 최종\\c#project3\\movie\\살인의 추억.mp4";
+                    videoFilePath = "C:\\Users\\k9315\\Documents\\project\\3조 영화예매\\c#project3\\c#project\\c#project\\movieFiles\\살인의 추억.mp4";
                     pictureBox1.Image = Resources.살인의_추억1;
                     break;
                 case 3:
-                    videoFilePath = "\\\\192.168.0.49\\공유\\미니프로젝트\\C#\\3조\\c#project 3조 최종\\c#project3\\movie\\너의 이름은.mp4";
+                    videoFilePath = "C:\\Users\\k9315\\Documents\\project\\3조 영화예매\\c#project3\\c#project\\c#project\\movieFiles\\너의 이름은.mp4";
                     pictureBox1.Image = Resources.너의_이름은1;
                     break;
                 case 4:
-                    videoFilePath = "\\\\192.168.0.49\\공유\\미니프로젝트\\C#\\3조\\c#project 3조 최종\\c#project3\\movie\\웡카.mp4";
+                    videoFilePath = "C:\\Users\\k9315\\Documents\\project\\3조 영화예매\\c#project3\\c#project\\c#project\\movieFiles\\웡카.mp4";
                     pictureBox1.Image = Resources.웡카1;
                     break;
                 case 5:
-                    videoFilePath = "\\\\192.168.0.49\\공유\\미니프로젝트\\C#\\3조\\c#project 3조 최종\\c#project3\\movie\\파묘.mp4";
+                    videoFilePath = "C:\\Users\\k9315\\Documents\\project\\3조 영화예매\\c#project3\\c#project\\c#project\\movieFiles\\파묘.mp4";
                     pictureBox1.Image = Resources.파묘1;
                     break;
                 case 6:
-                    videoFilePath = "\\\\192.168.0.49\\공유\\미니프로젝트\\C#\\3조\\c#project 3조 최종\\c#project3\\movie\\남산의 부장들.mp4";
+                    videoFilePath = "C:\\Users\\k9315\\Documents\\project\\3조 영화예매\\c#project3\\c#project\\c#project\\movieFiles\\남산의 부장들.mp4";
                     pictureBox1.Image = Resources.남산의_부장들1;
                     break;
                 case 7:
-                    videoFilePath = "\\\\192.168.0.49\\공유\\미니프로젝트\\C#\\3조\\c#project 3조 최종\\c#project3\\movie\\오펜하이머.mp4";
+                    videoFilePath = "C:\\Users\\k9315\\Documents\\project\\3조 영화예매\\c#project3\\c#project\\c#project\\movieFiles\\오펜하이머.mp4";
                     pictureBox1.Image = Resources.오펜하이머1;
                     break;
                 case 8:
-                    videoFilePath = "\\\\192.168.0.49\\공유\\미니프로젝트\\C#\\3조\\c#project 3조 최종\\c#project3\\movie\\나랏말싸미.mp4";
+                    videoFilePath = "C:\\Users\\k9315\\Documents\\project\\3조 영화예매\\c#project3\\c#project\\c#project\\movieFiles\\나랏말싸미.mp4";
                     pictureBox1.Image = Resources.나랏말싸미1;
                     break;
                 default:

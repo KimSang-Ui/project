@@ -9,7 +9,7 @@ namespace c_project.database
 {
     public class DB
     {
-        public static string dbstr = "data source = 112.218.211.194; user id = khj; password = 1234;";
+        public static string dbstr = "data source = 127.0.0.1; user id = ksu; password = 053054;";
         public static OracleConnection conn = null;
         public static OracleConnection openConnect()
         {

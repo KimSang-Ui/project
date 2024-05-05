@@ -1011,6 +1011,10 @@ The contents are not valid under the current encoding rules.</exception>
       <exception cref="T:System.ArgumentOutOfRangeException">
         <paramref name="ruleSet" /> is not defined.</exception>
     </member>
+    <member name="M:System.Formats.Asn1.AsnReader.Clone">
+      <summary>Clones the current reader.</summary>
+      <returns>A clone of the current reader.</returns>
+    </member>
     <member name="M:System.Formats.Asn1.AsnReader.PeekContentBytes">
       <summary>Get a <see cref="T:System.ReadOnlyMemory`1" /> view of the content octets (bytes) of the next encoded value without advancing the reader.</summary>
       <exception cref="T:System.Formats.Asn1.AsnContentException">The reader is positioned at a point where the tag or length is invalid under the current encoding rules.</exception>

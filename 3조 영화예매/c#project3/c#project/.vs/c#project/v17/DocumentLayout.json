@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|c:\\users\\k9315\\documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\ticketing1-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\ticketing1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\ticketing\\ticketing1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\ticketing1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\ticketing\\ticketing1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\ticketing1-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\ticketing\\ticketing1-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\ticketing1-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\ticketing\\ticketing1-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|c:\\users\\k9315\\documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\ticketing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|c:\\users\\k9315\\documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\ticketing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\ticketing\\ticketing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\ticketing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\ticketing\\ticketing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|c:\\users\\k9315\\documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\ticketing\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\ticketing\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|c:\\users\\k9315\\documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\movie\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\movie\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|c:\\users\\k9315\\documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\ticketing1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\ticketing\\ticketing1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +42,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ticketing1.cs",
+              "DocumentMoniker": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\Ticketing1.cs",
+              "RelativeDocumentMoniker": "c#project\\ticketing\\Ticketing1.cs",
+              "ToolTip": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\Ticketing1.cs",
+              "RelativeToolTip": "c#project\\ticketing\\Ticketing1.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwEEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:28:58.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\Main.cs",
+              "RelativeDocumentMoniker": "c#project\\ticketing\\Main.cs",
+              "ToolTip": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\Main.cs",
+              "RelativeToolTip": "c#project\\ticketing\\Main.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:23:19.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Ticketing.cs",
+              "DocumentMoniker": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\Ticketing.cs",
+              "RelativeDocumentMoniker": "c#project\\ticketing\\Ticketing.cs",
+              "ToolTip": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\Ticketing.cs",
+              "RelativeToolTip": "c#project\\ticketing\\Ticketing.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwBwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T03:58:44.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ticketing1-1.cs",
+              "DocumentMoniker": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\Ticketing1-1.cs",
+              "RelativeDocumentMoniker": "c#project\\ticketing\\Ticketing1-1.cs",
+              "ToolTip": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\Ticketing1-1.cs",
+              "RelativeToolTip": "c#project\\ticketing\\Ticketing1-1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:15:13.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Ticketing1.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\Ticketing1.cs",
               "RelativeDocumentMoniker": "c#project\\ticketing\\Ticketing1.cs",
@@ -46,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Ticketing1-1.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\Ticketing1-1.cs",
               "RelativeDocumentMoniker": "c#project\\ticketing\\Ticketing1-1.cs",
@@ -58,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Ticketing.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\Ticketing.cs",
               "RelativeDocumentMoniker": "c#project\\ticketing\\Ticketing.cs",
@@ -70,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Main.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\Main.cs",
               "RelativeDocumentMoniker": "c#project\\ticketing\\Main.cs",
@@ -78,18 +142,6 @@
               "RelativeToolTip": "c#project\\ticketing\\Main.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T01:45:45.059Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Movie.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\movie\\Movie.cs",
-              "RelativeDocumentMoniker": "c#project\\movie\\Movie.cs",
-              "ToolTip": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\movie\\Movie.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "c#project\\movie\\Movie.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T01:45:27.203Z",
               "EditorCaption": " [\uB514\uC790\uC778]"
             }
           ]

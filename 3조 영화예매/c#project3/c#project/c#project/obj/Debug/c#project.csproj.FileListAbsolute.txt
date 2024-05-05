@@ -341,3 +341,37 @@ C:\Users\user\Desktop\미니프로젝트\C#\3조\c#project 3조 최종\c#project
 C:\Users\user\Desktop\미니프로젝트\C#\3조\c#project 3조 최종\c#project3\c#project\c#project\obj\Debug\c#project.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\미니프로젝트\C#\3조\c#project 3조 최종\c#project3\c#project\c#project\obj\Debug\c#project.exe
 C:\Users\user\Desktop\미니프로젝트\C#\3조\c#project 3조 최종\c#project3\c#project\c#project\obj\Debug\c#project.pdb
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\obj\Debug\c#project.csproj.AssemblyReference.cache
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\obj\Debug\Interop.WMPLib.dll
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\obj\Debug\c#project.csproj.ResolveComReference.cache
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\obj\Debug\c_project.final.Final.resources
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\obj\Debug\c_project.movie.Movie.resources
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\obj\Debug\c_project.select_delete.Delete.resources
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\obj\Debug\c_project.seatselect.SeatSelect.resources
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\obj\Debug\c_project.seat.MovieSeat1.resources
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\obj\Debug\c_project.Select.resources
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\obj\Debug\c_project.Ticketing1_1.resources
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\obj\Debug\c_project.Ticketing1.resources
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\obj\Debug\c_project.Main.resources
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\obj\Debug\c_project.Properties.Resources.resources
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\obj\Debug\c_project.Ticketing.resources
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\obj\Debug\c#project.csproj.GenerateResource.cache
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\obj\Debug\c#project.csproj.CoreCompileInputs.cache
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\bin\Debug\c#project.exe.config
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\bin\Debug\c#project.exe
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\bin\Debug\c#project.pdb
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\bin\Debug\System.Buffers.dll
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\bin\Debug\System.Formats.Asn1.dll
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\bin\Debug\System.Memory.dll
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\bin\Debug\System.ValueTuple.dll
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\bin\Debug\System.Formats.Asn1.xml
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\bin\Debug\Interop.WMPLib.dll
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\obj\Debug\c#project.csproj.Up2Date
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\obj\Debug\c#project.exe
+C:\Users\k9315\Documents\project\3조 영화예매\c#project3\c#project\c#project\obj\Debug\c#project.pdb

@@ -44,28 +44,28 @@ namespace c_project.movie
             switch (movieNum)
             {
                 case 1:
-                    videoFilePath = "\\\\192.168.0.49\\공유\\미니프로젝트\\C#\\3조\\c#project 3조 최종\\c#project3\\movie\\새벽의 저주.mp4";
+                    videoFilePath = "C:\\Users\\k9315\\Documents\\project\\3조 영화예매\\c#project3\\c#project\\c#project\\movieFiles\\새벽의 저주.mp4";
                     break;
                 case 2:
-                    videoFilePath = "\\\\192.168.0.49\\공유\\미니프로젝트\\C#\\3조\\c#project 3조 최종\\c#project3\\movie\\너의 이름은.mp4";
+                    videoFilePath = "C:\\Users\\k9315\\Documents\\project\\3조 영화예매\\c#project3\\c#project\\c#project\\movieFiles\\너의 이름은.mp4";
                     break;
                 case 3:
-                    videoFilePath = "\\\\192.168.0.49\\공유\\미니프로젝트\\C#\\3조\\c#project 3조 최종\\c#project3\\movie\\살인의 추억.mp4";
+                    videoFilePath = "C:\\Users\\k9315\\Documents\\project\\3조 영화예매\\c#project3\\c#project\\c#project\\movieFiles\\살인의 추억.mp4";
                     break;
                 case 4:
-                    videoFilePath = "\\\\192.168.0.49\\공유\\미니프로젝트\\C#\\3조\\c#project 3조 최종\\c#project3\\movie\\파묘.mp4";
+                    videoFilePath = "C:\\Users\\k9315\\Documents\\project\\3조 영화예매\\c#project3\\c#project\\c#project\\movieFiles\\파묘.mp4";
                     break;
                 case 5:
-                    videoFilePath = "\\\\192.168.0.49\\공유\\미니프로젝트\\C#\\3조\\c#project 3조 최종\\c#project3\\movie\\웡카.mp4";
+                    videoFilePath = "C:\\Users\\k9315\\Documents\\project\\3조 영화예매\\c#project3\\c#project\\c#project\\movieFiles\\웡카.mp4";
                     break;
                     case 6:
-                    videoFilePath = "\\\\192.168.0.49\\공유\\미니프로젝트\\C#\\3조\\c#project 3조 최종\\c#project3\\movie\\남산의 부장들.mp4";
+                    videoFilePath = "C:\\Users\\k9315\\Documents\\project\\3조 영화예매\\c#project3\\c#project\\c#project\\movieFiles\\남산의 부장들.mp4";
                     break;
                     case 7:
-                    videoFilePath = "\\\\192.168.0.49\\공유\\미니프로젝트\\C#\\3조\\c#project 3조 최종\\c#project3\\movie\\오펜하이머.mp4";
+                    videoFilePath = "C:\\Users\\k9315\\Documents\\project\\3조 영화예매\\c#project3\\c#project\\c#project\\movieFiles\\오펜하이머.mp4";
                     break;
                 case 8:
-                    videoFilePath = "\\\\192.168.0.49\\공유\\미니프로젝트\\C#\\3조\\c#project 3조 최종\\c#project3\\movie\\나랏말싸미.mp4";
+                    videoFilePath = "C:\\Users\\k9315\\Documents\\project\\3조 영화예매\\c#project3\\c#project\\c#project\\movieFiles\\나랏말싸미.mp4";
                     break;
                 default:
                     break;
