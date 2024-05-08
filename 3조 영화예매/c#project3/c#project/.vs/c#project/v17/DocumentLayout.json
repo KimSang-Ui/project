@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|c:\\users\\k9315\\documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\final\\final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\final\\final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|c:\\users\\k9315\\documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\final\\final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\final\\final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|c:\\users\\k9315\\documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\movie\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\movie\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|c:\\users\\k9315\\documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\ticketing1-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\ticketing1-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FF5297F-F75A-4BE9-A7CB-01BEFD01420A}|c#project\\c#project.csproj|solutionrelative:c#project\\ticketing\\ticketing1-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -51,6 +59,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Final.cs",
+              "DocumentMoniker": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\final\\Final.cs",
+              "RelativeDocumentMoniker": "c#project\\final\\Final.cs",
+              "ToolTip": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\final\\Final.cs",
+              "RelativeToolTip": "c#project\\final\\Final.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAB8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:59:17.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Final.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\final\\Final.cs",
+              "RelativeDocumentMoniker": "c#project\\final\\Final.cs",
+              "ToolTip": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\final\\Final.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "c#project\\final\\Final.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:59:16.222Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Movie.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\movie\\Movie.cs",
               "RelativeDocumentMoniker": "c#project\\movie\\Movie.cs",
@@ -62,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Ticketing1.cs",
               "DocumentMoniker": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\Ticketing1.cs",
               "RelativeDocumentMoniker": "c#project\\ticketing\\Ticketing1.cs",
@@ -74,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Main.cs",
               "DocumentMoniker": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\Main.cs",
               "RelativeDocumentMoniker": "c#project\\ticketing\\Main.cs",
@@ -86,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Ticketing.cs",
               "DocumentMoniker": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\Ticketing.cs",
               "RelativeDocumentMoniker": "c#project\\ticketing\\Ticketing.cs",
@@ -98,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Ticketing1-1.cs",
               "DocumentMoniker": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\Ticketing1-1.cs",
               "RelativeDocumentMoniker": "c#project\\ticketing\\Ticketing1-1.cs",
@@ -106,12 +139,11 @@
               "RelativeToolTip": "c#project\\ticketing\\Ticketing1-1.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAAACAAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T01:15:13.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T01:15:13.955Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Ticketing1.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\Ticketing1.cs",
               "RelativeDocumentMoniker": "c#project\\ticketing\\Ticketing1.cs",
@@ -122,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Ticketing1-1.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\Ticketing1-1.cs",
               "RelativeDocumentMoniker": "c#project\\ticketing\\Ticketing1-1.cs",
@@ -133,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Ticketing.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\Ticketing.cs",
               "RelativeDocumentMoniker": "c#project\\ticketing\\Ticketing.cs",
@@ -144,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Main.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Users\\k9315\\Documents\\project\\3\uC870 \uC601\uD654\uC608\uB9E4\\c#project3\\c#project\\c#project\\ticketing\\Main.cs",
               "RelativeDocumentMoniker": "c#project\\ticketing\\Main.cs",
